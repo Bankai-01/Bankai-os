@@ -39,3 +39,5 @@ To run this app, install the following dependencies:
 
 ```bash
 pip install kivy
+Cd Bankai-os
+python3 main.py
