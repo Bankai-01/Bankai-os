@@ -1,5 +1,10 @@
 # Bankai-os
 Termux based os develope with pydroid
+# 🛠 Hacking-Themed Terminal App
+
+This is a **hacking-themed** terminal UI built using **Kivy** for Python. It includes **glitch effects, a splash screen, a command-line interface, and settings for customization**.
+
+---
 #🚀 Features
 ✅ Hacking-Themed UI (Green terminal-style) <br>
 ✅ Splash Screen ("BANKAI" typewriter effect)<br>
