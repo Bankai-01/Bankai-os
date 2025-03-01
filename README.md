@@ -1,13 +1,13 @@
 # Bankai-os
 Termux based os develope with pydroid
 #🚀 Features
-✅ Hacking-Themed UI (Green terminal-style)
-✅ Splash Screen ("BANKAI" typewriter effect)
-✅ Command Execution (whoami, sysinfo, hack, etc.)
-✅ Glitch Effect (Optional)
-✅ Settings Menu
-✅ Social Media Links (GitHub, Telegram)
-✅ Works on Desktop & Mobile
+✅ Hacking-Themed UI (Green terminal-style) <br>
+✅ Splash Screen ("BANKAI" typewriter effect)<br>
+✅ Command Execution (whoami, sysinfo, hack, etc.)<br>
+✅ Glitch Effect (Optional)<br>
+✅ Settings Menu<br>
+✅ Social Media Links (GitHub, Telegram)<br>
+✅ Works on Desktop & Mobile<br>
 # 🖥️ Supported Python IDEs
 
 This app can run on the following Python IDEs:
