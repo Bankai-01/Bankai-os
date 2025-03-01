@@ -3,7 +3,11 @@ Termux based os develope with pydroid
 # 🛠 Hacking-Themed Terminal App
 
 This is a **hacking-themed** terminal UI built using **Kivy** for Python. It includes **glitch effects, a splash screen, a command-line interface, and settings for customization**.
+## 📦 Requirements  
 
+### 🖥️ **System Requirements**  
+- **Operating System**: Windows / macOS / Linux / Android  
+- **Python Version**: 3.7 or later  
 ---
 #🚀 Features
 ✅ Hacking-Themed UI (Green terminal-style) <br>
