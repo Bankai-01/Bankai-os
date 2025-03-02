@@ -34,10 +34,18 @@ This app can run on the following Python IDEs:
 - **QPython** (Android)  
 - **Carnets** (iOS - Requires Jupyter-based adaptation)  
 
-## ⚙️ **Dependencies Required**
-To run this app, install the following dependencies:
-
-```bash
+# 📌 **Required Dependencies**
+''' bash 
 pip install kivy
-Cd Bankai-os
-python3 main.py
+pip install kivymd
+pip install platform
+pip install random
+pip install webbrowser
+# 🛠️ **Optional Dependencies**
+''' bash 
+pip install numpy  # For advanced glitch effects
+pip install requests  # For future web requests (if needed)
+## 📌 **How to Install All at Once**
+Copy & paste the command below to install all dependencies:
+''' bash
+pip install kivy kivymd platform random webbrowser numpy requests
