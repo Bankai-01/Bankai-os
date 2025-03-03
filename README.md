@@ -35,7 +35,7 @@ This app can run on the following Python IDEs:
 - **Carnets** (iOS - Requires Jupyter-based adaptation)  
 
 # 📌 **Required Dependencies**
-''' bash 
+'''bash 
 pip install kivy
 pip install kivymd
 pip install platform
@@ -43,7 +43,7 @@ pip install random
 pip install webbrowser
 '''
 # 🛠️ **Optional Dependencies**
-''' bash 
+'''bash 
 pip install numpy  # For advanced glitch effects
 pip install requests  # For future web requests (if needed)
 '''
