@@ -35,8 +35,10 @@ This app can run on the following Python IDEs:
 - **Carnets** (iOS - Requires Jupyter-based adaptation)  
 
 # 📌 **Required Dependencies**
+
 '''bash 
-pip install kivy
+     pip install kivy 
+'''
 pip install kivymd
 pip install platform
 pip install random
